@@ -57,6 +57,10 @@ p {
 .abcd {
     border-left: solid 4px orange;
     padding-left: 20px;
-    padding-right: 350px;
     margin-left: 100px;
+}
+
+.para-2 {
+    padding-right: 350px;
+    text-align: justify;
 }
