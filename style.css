@@ -21,6 +21,12 @@ p {
     margin-bottom: 50px;
 }
 
+.third-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .half-width {
     width: 50%;
     padding-left: 5%;
@@ -55,9 +61,13 @@ p {
 }
 
 .abcd {
-    border-left: solid 4px orange;
-    padding-left: 20px;
-    margin-left: 100px;
+    border-left: solid 6px orange;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+    padding-right: 0;
+    box-shadow: 10px 10px 30px grey;
 }
 
 .para-2 {
